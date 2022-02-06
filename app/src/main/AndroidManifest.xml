@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.users.cifri" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/image"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Cifri"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".NachEkr"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Vibr_Igroka"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Options"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

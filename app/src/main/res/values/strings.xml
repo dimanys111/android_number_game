@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Цыфры</string>
+    <string name="action_settings">Заново</string>
+    <string name="title_activity_nach_ekr">NachEkr</string>
+    <string name="title_activity_vibr__igroka">Vibr_Igroka</string>
+    <string name="title_activity_menu_pauz">menu_pauz</string>
+    <string name="title_activity_options">Options</string>
+
+</resources>
